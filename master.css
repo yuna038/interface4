@@ -1,0 +1,330 @@
+{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.cont{
+    width: auto;
+    height: 100vh;
+    background-image: url('img01.png');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    
+  
+}
+
+
+.wrap{
+    width: 1100px;
+    height: 100vh;
+    position: relative;
+    padding-right: 320px;
+}
+
+.top{
+    position: relative;
+    background-color: white;
+    width: 1381px;
+    height: 80px;
+    
+}
+
+.box0{
+    width: auto;
+}
+
+.box1{height: 80px; margin-top: 6px;display: flex;justify-content: space-between; align-items: center;}
+
+
+
+
+.cont1{
+    width: auto;
+    height: 100vh;
+    background-color: white;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.s01_b00{ 
+    width: 800px;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    padding-left: 320px;
+    padding-top: 153px;
+    height: 646px;
+
+}
+
+.cont3{
+    width: 100%;
+    height: 100vh;
+    background-color: white;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+.box2{    
+    width: 100%;
+    height: 1071.54px;
+    background-image: url('img081.png');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+.cont2{
+    width: 100%;
+    height: 100vh;
+    background-color: white;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 280px;
+}
+
+.box3{
+    width: 100%;
+    height: 2130.95px;
+    background-image: url('img902.png');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+}
+.cont4{
+    width: 100%;
+    height: 100vh;
+    background-color: white;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+ 
+.box4{
+    width: 1322px;
+    height: 1093px;
+    background-image: url('ig.png');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+
+}
+
+.cont33{
+    width: 1403.92px;
+    height: 972.8px;
+    background-image: url('img33.png');
+    background-size: ;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 130px;
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
+    margin-left: 150px;
+}
+
+
+
+
+
+.cont11{
+    width: auto;
+    height: 80px;
+    background-color: white;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.cont5{
+    width: 100%;
+    height: 640px;
+    background-image: url('img121.png');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+  
+}
+.cont6{
+    width: 100%;
+    height: 100vh;
+    background-image: url('img14.png');
+    background-size: ;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+    background-repeat: no-repeat;
+}
+ 
+.cont7{
+    width: 100%;
+    height: 1569.97px;
+    background-image: url('img151.png');
+    background-size: ;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    background-repeat: no-repeat;
+}
+
+.cont8{ 
+    width: 100%;
+    height: 291px;
+    background-image: url('img16.png');
+    background-size: ;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 120px;
+    background-repeat: no-repeat;
+}
+
+.cont9{ 
+    width: 100%;
+    height: 1365px;
+    background-image: url('img17.png');
+    background-size: ;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    background-repeat: no-repeat;
+}
+
+.cont10{
+    width: 100%;
+    height: 3743px;
+    background-image: url('img181.png');
+    background-size: ;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    background-repeat: no-repeat;
+    margin-bottom: 110px;
+}
+
+{
+    width: auto;
+    height: 1753.31px;
+    background-image: url('img191.png');
+    background-size: ver;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+    background-repeat: no-repeat;
+    
+}
+
+.cont12{
+    width: 100%;
+    height: auto;
+    background-color: white;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+}
+
+.box12{
+    width: 100%;
+    height: 750px;
+    background-image: url('img19.png');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    margin-left: 300px;
+
+}
+
+.cont14{   width: 100%;
+    height: 861px;
+    background-image: url('img202.png');
+    background-size: ;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+     margin-left: 450px;
+    background-repeat: no-repeat;
+}
+
+.cont15{
+    width: 1482px;
+    height: 978.09px;
+    background-image: url('img21.png');
+    background-size: ;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    background-repeat: no-repeat;
+}
+
+.cont16{   
+    width: 1410.91px;
+    height: 795.97px;
+    background-image: url('img222.png');
+    background-size: ;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    background-repeat: no-repeat;
+}
+
+.cont17{    width: 1562px;
+    height: 854px;
+    background-image: url('img231.png');
+    background-size: ;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    background-repeat: no-repeat;
+    
+
+}
+
+.cont18{
+    width: 1002.13px;
+    height: 915.74px;
+    background-image: url('img24.png');
+    background-size: ;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 130px;
+    background-repeat: no-repeat;
+    margin-bottom: 300px;
+}
+
